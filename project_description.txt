@@ -1,0 +1,44 @@
+Full stack development 
+
+
+description:
+A web application to track your gym progression optimized for mobile.
+https://www.websitebuilderexpert.com/building-websites/how-to-make-website-mobile-friendly/
+ I want to make this about simplicity to update your workout, the reps sets
+exercise. And I also want to include diet in a different tab. so to track the workout and diet in the same place. no ads,
+no extra shit.
+
+
+Functional Requirements:
+1. User authentication
+2. manage user profile
+3. manage workout.
+4. manage diet.
+5. make exercise name suggestions
+
+
+
+NFRs
+1. usability
+    1. Fast response time: need to quantify this
+    2. Very simple UI
+    3. responsive
+    4. show graphical stats
+
+
+
+Stack:
+1. database design:
+    R vs NR: inclined towards using NR. but would be ideal to try both and compare the results.
+
+NoSQL databases are not as well-suited for complex queries.
+NoSQL databases typically have weaker security features than relational databases.
+NoSQL databases are less mature and less flexible queries.
+NoSQL databases can be more difficult to use than relational databases.
+NoSQL databases typically have poorer security features than relational databases.
+
+Relational databases are difficult schema evolution due to an inflexible data model.
+
+so, we will use R for user authentication storage and NR to store workouts and diet info.
+a respone to back my thought process:https://www.quora.com/Does-it-make-sense-to-combine-both-NoSQL-and-SQL-Why
+
