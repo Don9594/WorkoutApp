@@ -6,7 +6,7 @@ A web application to track your gym progression optimized for mobile.
 https://www.websitebuilderexpert.com/building-websites/how-to-make-website-mobile-friendly/
  I want to make this about simplicity to update your workout, the reps sets
 exercise. And I also want to include diet in a different tab. so to track the workout and diet in the same place. no ads,
-no extra shit.
+no extra stuff.
 
 
 Functional Requirements:
